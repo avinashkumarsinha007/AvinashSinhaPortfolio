@@ -1,0 +1,99 @@
+
+
+.container{
+    background-color: rgb(175, 173, 173);
+    height:83vh;
+    padding-top: 5%;
+}
+.container2{
+    width: 70%;
+    margin: auto;
+    height: 90%;   
+}
+
+.containerh{
+    width: 100%;
+    height: 100%;
+    background-color: teal;
+    border-radius: 4px;
+}
+.containeri{
+    width: 100%;
+    height: 100%;
+    /* background-color: teal; */
+}
+
+.imageCard{
+    width: 100%;
+    height: 100%;
+}
+.hcontainer{
+    width: 100%;
+    height: 100%;
+}
+.hcontainer1{
+    padding: 1%;
+    text-align: center;
+}
+
+.hcontainerh{
+    font-size: 1.7rem;
+}
+
+.crausalImage{
+    width: 100%;
+}
+.pTag{
+   font-size: 1rem;
+   font-weight: bold;
+   color: white
+}
+
+.buttonh{
+    color: black;
+    margin-bottom: 10%;
+}
+
+@media screen and (max-width:1200px){
+  
+    .buttonh{
+        margin-bottom: 15%;
+    }
+
+}
+
+@media screen and (max-width:800px){
+  
+    .buttonh{
+        margin-bottom: 3%;
+    }
+    .hcontainerh{
+        font-size: 1.5rem;
+    }
+    .containerh{
+        margin-top: 2%;
+    }
+    .containeri{
+        margin-top: 2%;
+    }
+}
+
+@media screen and (max-width:600px){
+  
+    .buttonh{
+        margin-bottom: 2%;
+    }
+    .hcontainerh{
+        font-size: 1.1rem;
+    }
+    .container{
+        height: 90vh;
+        padding-top: 8%;
+    }
+    .containerh{
+        margin-top: 2%;
+    }
+    .containeri{
+        margin-top: 2%;
+    }
+}
