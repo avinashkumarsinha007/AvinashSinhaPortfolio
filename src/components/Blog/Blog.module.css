@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    margin: auto;
+    padding-top: 3%;
+}
+.outer{
+    background-color:#131313 ;
+    height:95vh ;
+}
+.image2{
+    width: 100%;
+    
+}
+
+
+@media screen and (max-width:1200px){
+    .outer{
+        height: max-content;
+    }
+}
+
+
+@media screen and (max-width:500px){
+    
+}
