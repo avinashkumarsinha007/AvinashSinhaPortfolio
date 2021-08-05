@@ -1,7 +1,7 @@
 
 # Portfolio
 
-###### It is a small description about me what I do, Where I live and How can you contact me. And feel free to use my template if you want to.
+###### It is a small description about and me what I do, What tech stacks I use, Where I live and How you can contact me. And feel free to use my template if you want to.
 
 ## Tech Stacks Used
 
