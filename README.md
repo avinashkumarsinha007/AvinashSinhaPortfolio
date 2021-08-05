@@ -5,7 +5,7 @@
 
 ## Tech Stacks Used
 
-<img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" width="100%">
+### React, JavaScript, Html, CSS
 
 ## Source
 
