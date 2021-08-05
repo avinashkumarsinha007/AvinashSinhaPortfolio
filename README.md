@@ -13,7 +13,7 @@
 
 - Framer Motion: [Framer Motion](https://www.npmjs.com/package/framer-motion) 
 
-- Images used: [Revv](https://www.google.com)
+- Images used: [Google](https://www.google.com)
 
 - Material UI: [Material UI](https://material-ui.com/) 
 
